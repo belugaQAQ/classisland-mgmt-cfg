@@ -1,4 +1,16 @@
 {
         "ServerKind": 0,
-            "OrganizationName": "TYL"
+            "OrganizationName": "TYL",
+                "ClassPlanSource": {
+                        "Value": "https://raw.githubusercontent.com/belugaQAQ/classisland-mgmt-cfg/master/dangan.json",
+                                "Version": 1
+                                    },
+                                        "TimeLayoutSource": {
+                                                "Value": "https://raw.githubusercontent.com/belugaQAQ/classisland-mgmt-cfg/master/dangan.json",
+                                                        "Version": 1
+                                                            },
+                                                                "SubjectsSource": {
+                                                                        "Value": "https://raw.githubusercontent.com/belugaQAQ/classisland-mgmt-cfg/master/dangan.json",
+                                                                                "Version": 1
+                                                                                    }
 }
